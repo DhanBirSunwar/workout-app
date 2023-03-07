@@ -8,7 +8,7 @@ const Footer = () => (
     <Stack gap="40px" sx={{ alignItems: 'center' }} flexWrap="wrap" px="40px" py="24px">
       <img src={Logo} alt="logo" style={{ width: '80px', height: '41px' }} />
       <Typography>
-      © {new Date().getFullYear()} Gym pro. All rights reserved.
+      © {new Date().getFullYear()} Gym pro. Dhan.
       </Typography>
     </Stack>
   </Box>
